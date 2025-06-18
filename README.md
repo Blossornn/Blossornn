@@ -1,6 +1,6 @@
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=Blossornn)](https://github.com/marshallku/gitgarden)
 
-- 💼 개발 가능한 언어/프레임워크:  
+- 💼 가능한 언어/프레임워크:  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
