@@ -1,7 +1,7 @@
 <!--[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Blossornn)](https://github.com/marshallku/gitgarden)-->
 <!--![gitblock version](profile-3d-contrib/profile-gitblock.svg)-->
 <!--![night rainbow version](profile-3d-contrib/profile-night-rainbow.svg)-->
-![southern hemisphere version](profile-3d-contrib/profile-south-season.svg)
+![green version](profile-3d-contrib/profile-green.svg)
 
 - 💼 해 본 언어/프레임워크:  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
