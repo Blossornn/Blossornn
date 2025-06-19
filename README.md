@@ -6,6 +6,8 @@
 <!--![green version](profile-3d-contrib/profile-green.svg)-->
 <!--![night version](profile-3d-contrib/profile-night-view.svg)-->
 
+
+  ![Build](https://github.com/octocat/Hello-World/actions/workflows/ci.yml/badge.svg)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
