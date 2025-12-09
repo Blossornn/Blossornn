@@ -56,6 +56,12 @@
 
 ---
 
+## Project
+StayLog
+- 설명 : 숙소 리뷰, 예약 및 여행지 소개 등 리뷰 기반의 커뮤니티 웹 서비스
+- 관리자 페이지에서 회원관리, 예약관리 담당 / 반응형 UI를 사용한 모바일 하단 탭바 구현
+- https://staylog.store/
+
 ## 📚 Currently Learning
 - Spring 기반 백엔드 심화 학습  
 - JPA, Hibernate, SQL 최적화  
