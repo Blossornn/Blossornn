@@ -42,9 +42,8 @@
 ---
 
 ## 🗃 Database
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" height="40" style="vertical-align: middle;" />
+
 
 
 ---
